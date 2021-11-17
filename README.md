@@ -19,7 +19,9 @@
  - https://github.com/taherahmed14/adidas_project
 
 ### 💬 Where can you connect with me?
-https://www.linkedin.com/in/taher-ahmed-bb96b6123/
+<p align="left">
+<a href="https://www.linkedin.com/in/taher-ahmed-bb96b6123/" target="blank"><img align="center" src="https://i1.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1" alt="Taher" width="50" /></a>
+</p>
  
 
 
