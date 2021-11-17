@@ -16,6 +16,9 @@
 ### 💬 My top projects?
  - https://github.com/taherahmed14/Groww-Clone
  - https://github.com/taherahmed14/adidas_project
+
+### 💬 Where can you connect with me?
+https://www.linkedin.com/in/taher-ahmed-bb96b6123/
  
 
 
