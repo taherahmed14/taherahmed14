@@ -19,7 +19,7 @@
 ### 💬 My top projects?
 
 <p align="left">
- <a href=" https://github.com/taherahmed14/Groww-Clone" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/b9336c93700473.Y3JvcCwxNzM2LDEzNTcsMCwxNzE.png" alt="Taher" width="50" /></a> &nbsp;
+<a href="https://github.com/taherahmed14/Groww-Clone" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/b9336c93700473.Y3JvcCwxNzM2LDEzNTcsMCwxNzE.png" alt="Taher" width="50" /></a> &nbsp;
 <a href="https://github.com/taherahmed14/adidas_project" target="blank"><img align="center" src="https://cdn.britannica.com/94/193794-050-0FB7060D/Adidas-logo.jpg" alt="Taher" width="56" /></a>
 </p>
 
