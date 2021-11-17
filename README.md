@@ -12,6 +12,7 @@
  - express js
  - React
  - Tailwind
+ - Jest
 
 ### 💬 My top projects?
  - https://github.com/taherahmed14/Groww-Clone
