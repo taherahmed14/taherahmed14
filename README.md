@@ -1,4 +1,4 @@
-### Hi there, I'm Taher 👋
+### Hey you, I'm Taher 👋
 
 ### 💬 What am I currently doing?
  I'm learning MERN Stack at Masai School.
