@@ -26,10 +26,13 @@
 <a href="https://github.com/taherahmed14/adidas_project" target="blank"><img align="center" src="https://cdn.britannica.com/94/193794-050-0FB7060D/Adidas-logo.jpg" alt="Taher" width="56" /></a>
 </p>
 
-### :heavy_minus_sign: Where can you connect with me?
-<p align="left">
-<a href="https://www.linkedin.com/in/taher-ahmed-bb96b6123/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637134549~hmac=3124c6b5dd52547252dc033b95834155" alt="Taher" width="40" /></a>
+### :heavy_minus_sign: Where to find me?
+<p> <a href="https://www.linkedin.com/in/taher-ahmed-bb96b6123/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@taherahmed.sj.95" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+<h3>Where to find me</h3>
+
+
  
 
 
