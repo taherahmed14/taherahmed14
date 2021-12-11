@@ -1,13 +1,22 @@
 <h1>Hey you, I'm Taher</h1>
 
 ### :heavy_minus_sign: Interested on my Story?
- I graduated in Civil Engineering, started my career as a Site Engineer and after a year I joined as a Rebar Detailer and continued to work for the next 3 years. I was not satisfied with my career growth and I started looking for other career opportunities and that was the time the platform of Web development intrigued me.
+When I graduated as a civil engineer, I never thought that I would be on the path to become a web developer. I started my career as a site engineer, then worked as a rebar detailer for the next 3 years.
+However, the job did not provide me the satisfaction that I was seeking for my career growth. This is when I came across the career option of web development and was immediately intrigued.
 
-After exploring career paths on Web development I fortunately came to know about Masai School and joined a 30 weeks full time course on Full-Stack Web Development. And since then I became determined to learn new skills and frameworks and it has always been exciting to apply them on developing my own projects. Started from scratch with no knowledge about Web development and was able to build an E-commerce page with proper page flow and validations in just 2 months ignited the spark in me to learn more, develop more and keep growing.
+While I was exploring career paths on web development, I learned about Masai school and joined a 30-weeks full-time course on Full-Stack Web Development. Ever since, I became determined to learn new skills and frameworks. I was able to apply my learnings while developing projects and that became an enjoyable process.
 
-Masai has developed my skills with hands-on experience on MERN stack, critical thinking by solving Data Structures and Algorithms and also soft skills. My previous work experiences combined with everything I have learnt in the last few months has made me skilled in coordination, clear communication and decision making which I was able to experience while working with a team during our construct week projects.
+I started from scratch with next to no knowledge about web development. But, in the span on 2 months I was able to build an E-commerce page with proper flow and validations. This experience ignited a spark in me to learn and develop more.
 
-Looking forward to applying the acquired skills on solving intricate problems and making life much easier. Feel free to reach me at taherahmed.sj.95@gmail.com.
+With Masai school, I have developed my skills with hands-on experience on MERN stack, critical thinking by solving Data Structures and Algorithms. Through learning and implementing, I have become an expert in JavaScript, HTML, and CSS.
+
+My previous work experience, combined with everything that I have learnt in the past few months has enhanced my skills in coordination, clear communication and decision making.
+
+My leisure interest include travelling, reading books, exploring movies and listening to music.
+
+Looking forward to applying the acquired skills on solving intricate problems and making life much easier.
+Feel free to reach me at: taherahmed.sj.95@gmail.com.
+You can view my work at:
  
 ### :heavy_minus_sign: Interested on my skills?
 <p>
