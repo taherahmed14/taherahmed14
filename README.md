@@ -43,7 +43,7 @@ You can view my work at:
 
 <p>
 <a href="https://github.com/taherahmed14/Groww-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Groww&color=00d09c&logo=GoldenLine&logoColor=FFFFFF&label=" alt="Groww" /></a> &nbsp;
-<a href="https://github.com/taherahmed14/adidas_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
+<a href="https://github.com/taherahmed14/adidas-Front-end-project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p>
 
 ### :heavy_minus_sign: Where to find me?
