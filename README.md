@@ -1,6 +1,6 @@
 <h1>Hey you, I'm Taher</h1>
 
-I'm an aspiring Full Stack Web Developer currently learning MERN stack.
+I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 
 ### :heavy_minus_sign: Interested on my skills?
 <p>
