@@ -2,6 +2,9 @@
 
 I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 
+![](https://komarev.com/ghpvc/?username=your-github-taherahmed14&style=flat-square&label=Profile+Views)
+<img src="https://badges.pufler.dev/Commits/yearly/taherahmed14" />
+
 ### :heavy_minus_sign: Interested on my skills?
 <p>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
