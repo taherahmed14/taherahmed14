@@ -29,7 +29,8 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 ### :heavy_minus_sign: Interested on my top projects?
 
 <p>
-<a href="https://github.com/taherahmed14/Groww-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Groww&color=00d09c&logo=GoldenLine&logoColor=FFFFFF&label=" alt="Groww" /></a> &nbsp;
+<a href="https://github.com/taherahmed14/nordstrom-clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nordstrom&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="nordstrom"/></a>
+<a href="https://github.com/taherahmed14/Groww_Full-Stack_Project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Groww&color=00d09c&logo=GoldenLine&logoColor=FFFFFF&label=" alt="Groww" /></a> &nbsp;
 <a href="https://github.com/taherahmed14/adidas-Front-end-project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p>
 
