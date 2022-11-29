@@ -1,9 +1,8 @@
 <h1>Hey you, I'm Taher</h1>
 
-A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
+A Full Stack Web Developer based in India. A creative coder who specializes in MERN and MEAN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
 
 ![](https://komarev.com/ghpvc/?username=your-github-taherahmed14&style=flat-square&label=Profile+Views)
-<img src="https://badges.pufler.dev/Commits/yearly/taherahmed14" />
 
 ### :heavy_minus_sign: Interested on my skills?
 <p>
